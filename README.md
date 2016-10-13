@@ -1,3 +1,7 @@
+## For Complete Tutorial Visit
+
+http://www.icoderslab.com/develop-your-first-angular-2-app-using-angular-cli/
+
 # Angular2FirstApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
@@ -30,7 +34,5 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## For Complete Tutorial Visit
 
-http://www.icoderslab.com/develop-your-first-angular-2-app-using-angular-cli/
 
